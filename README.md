@@ -1,4 +1,4 @@
-# DotNetBrushUp
+# .NET Brush Up
 
 A C# console **scratchpad** of practice exercises kept around for brushing up on .NET fundamentals — collections, LINQ, dependency-graph problems, common interview-style algorithms, etc.
 
